@@ -13,6 +13,10 @@ See [Flavour Tagging](f.md#flavourtagging).
 
 Advisory body to the LHCb management on all aspects of detector design, optimization, safety and cost.
 
+## Timepix3 {#Timepix3}
+
+An [ASIC](a.md#ASIC) for reading out a silicon pixel sensor with 55x55 micron pixels. Timepix3 data packets are timestamped to a precision of 1.5625ns on chip and capable of reading out 60M hits per second. Derived from the MediPix family.
+
 ## TCK: Trigger Configuration Key {#TCK}
 
 A unique 32-bit configuration value (in base 16) representing a given trigger configuration (sequence of algorithms and selection cuts).

@@ -50,6 +50,10 @@ and this was followed by a Physics Case [CERN/LHCC-2018-027](http://cds.cern.ch/
 Similar documents are often required in the LHCb member countries for their scientific review and funding agencies,
 focusing for the detector on the elements that will be constructed in that country, as part of their approval process.
 
+## lpGBT: low power GigaBit Transceiver {#lpGBT}
+
+The upgrade of the [GBTX](g.md#GBTX) for Upgrade II era (HL-LHC). Featuring lower power consumption and higher bandwidth. The chip is part of the [GBT Project](https://espace.cern.ch/GBT-Project/default.aspx).
+
 ## Luminosity Levelling (lumi levelling)
 
 Procedure of adjust LHC beam parameters such that the instantaneous luminosity stays constant as function of time, although the beam current decreases.

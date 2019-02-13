@@ -12,6 +12,10 @@ The **LHCb** software framework, see the [Gaudi homepage](http://gaudi.web.cern.
 
 The LHCb simulation application. [Project website](http://lhcbdoc.web.cern.ch/lhcbdoc/gauss/).
 
+## GBTX: GigaBit Transceiver {#GBTX}
+
+A radiation-hard [ASIC](a.md#ASIC) used in the LHCb upgrade for [DAQ](d.md#DAQ), timing, trigger and experiment control. It is used to read out the data from all of the subdetectors of LHCb except for the [VELO](v.md#VELO). It can operate within the acceptance of the detector, even ~5cm from the beam in the [VELO](v.md#VELO). The chip is part of the [GBT Project](https://espace.cern.ch/GBT-Project/default.aspx).
+
 ## GEANT4: GEometry ANd Tracking 4 {#GEANT4}
 
 A software package which is used for simulating the processes that occur between as particles move through matter.
